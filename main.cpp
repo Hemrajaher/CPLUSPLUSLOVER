@@ -27,7 +27,8 @@ cout << "addition of numbers  " << total << endl;
 // cout << "hi hemraj";
 // cout << " you want to learn";
 // cout << " c++ \t";
-// cout << "99.99";
+// cout << "99.99";;
+ cout << "Hemraj aher" << endl;
 
 
     //return 0;
